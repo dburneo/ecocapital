@@ -1,0 +1,87 @@
+{
+    "date": {
+       "display_name": "Fecha",
+       "Value": "2018-06-21 13:19:36"
+    },
+    "ticket_id": {
+       "display_name": "No. de Radicado",
+       "Value": "214854"
+    },
+    "claimant_name": {
+       "display_name": "Nombre Reclamante",
+       "Value": "LUZ MARINA PEÑIUELA BURGOS"
+    },
+    "claimant_id": {
+       "display_name": "Documento",
+       "Value": "C.C. 41722464"
+    },
+    "phone": {
+       "display_name": "Teléfono",
+       "Value": "3102550986"
+    },
+    "email": {
+       "display_name": "e-mail",
+       "Value": "MARINAP5729MP@GMAIL.COM"
+    },
+    "code": {
+       "display_name": "Código",
+       "Value": "0"
+    },
+    "subscription_id": {
+       "display_name": "No. Suscriptor",
+       "Value": "23"
+    },
+    "category": {
+       "display_name": "Categoría",
+       "Value": "Micro productor C No Aplica"
+    },
+    "client_name": {
+       "display_name": "Razón Social",
+       "Value": "BUMPER BALL M.A. BOLAS CACHONAS"
+    },
+    "client_id": {
+       "display_name": "Documento",
+       "Value": "NIT 417224641"
+    },
+    "address_1": {
+       "display_name": "Dirección Predio",
+       "Value": "CL 60 SUR 22 44 CS 3"
+    },
+    "city_division": {
+       "display_name": "Localidad",
+       "Value": "CIUDAD BOLIVAR"
+    },
+    "address_2": {
+       "display_name": "Dirección Correo",
+       "Value": "CL 60 SUR 22 44 CS 3"
+    },
+    "type": {
+       "display_name": "PETICION",
+       "Value": ""
+    },
+    "channel": {
+       "display_name": "Medio",
+       "Value": "Presencial"
+    },
+    "concept": {
+       "display_name": "Concepto",
+       "Value": "Institución o Establecimiento"
+    },
+    "description": {
+       "display_name": "Pretensión",
+             "Value": "BUMPER BALL M.A BOLAS CACHONAS**USUARIO NUEVO, NO       ASISTIÓ A CAPACITACIÓN...***"
+    },
+    "answer": {
+       "display_name": "Respuesta",
+       "Value": "Barrio: casa linda tunal , se programa capacitación para el 09/07/2018, a la 08:30 am en La Fundación Hugo Escobar Sierra ubicada en la Kr 18 # 63ª-50 Chapinero. A cuatro cuadras del PAU costado norte al lado de la parroquia Santa Teresa de Ávila. Prohibido el ingreso de menores de edad y/o acompañantes. Llevar agenda y esfero.Resultado tareas"
+    },
+    "signature_1": {
+       "display_name": "Firma Funcionario",
+       "Value": "Maria Alejandra Murillo Rodriguez"
+    },
+    "signature_2": {
+       "display_name": "Firma Usuario",
+       "Value": ""
+    }
+}
+    
